@@ -1,6 +1,12 @@
 # <div align="center"> Pokemon React App 👨‍💻</div>
 <p align="center">A Responsive Pokedex made with React JS, Hooks,  consuming the pokeapi and using localstorage.</p>
 
+## ✨ Image
+
+<div align="center">
+  <a href="https://ibb.co/qYsb4nt"><img src="https://i.ibb.co/HTzmM2W/image.png" alt="image" border="0" /></a>
+</div>
+
 ## 🛠️ Technologies
 
 <ul>
